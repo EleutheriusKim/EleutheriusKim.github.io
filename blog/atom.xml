@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://EleutheriusKim.github.io/blog</id>
+    <title>김화영 문서 Blog</title>
+    <updated>2021-09-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://EleutheriusKim.github.io/blog"/>
+    <subtitle>김화영 문서 Blog</subtitle>
+    <icon>https://EleutheriusKim.github.io/https://avatars1.githubusercontent.com/u/50225173?s=460&amp;v=4</icon>
+    <entry>
+        <title type="html"><![CDATA[docker 컨테이너 내부 timezone]]></title>
+        <id>2021-09-01-docker-localtime</id>
+        <link href="https://EleutheriusKim.github.io/blog/2021-09-01-docker-localtime"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[개요]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[package.json 업데이트 확인]]></title>
+        <id>2021-08-27-npm-check-updates</id>
+        <link href="https://EleutheriusKim.github.io/blog/2021-08-27-npm-check-updates"/>
+        <updated>2021-08-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[소개]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docusaurus Install]]></title>
+        <id>2021-08-26-docusaurus</id>
+        <link href="https://EleutheriusKim.github.io/blog/2021-08-26-docusaurus"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDX Blog Post]]></title>
+        <id>2021-08-01-mdx-blog-post</id>
+        <link href="https://EleutheriusKim.github.io/blog/2021-08-01-mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
+</feed>

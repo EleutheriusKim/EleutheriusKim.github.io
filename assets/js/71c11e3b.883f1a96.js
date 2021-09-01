@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeleutherius_blog=self.webpackChunkeleutherius_blog||[]).push([[5255],{5228:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/docker-compose","name":"docker-compose","count":1,"permalink":"/blog/tags/docker-compose"}')}}]);
