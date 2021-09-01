@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>김화영 문서 Blog</title>
+        <title>Eleutherius dev Blog Blog</title>
         <link>https://EleutheriusKim.github.io/blog</link>
-        <description>김화영 문서 Blog</description>
+        <description>Eleutherius dev Blog Blog</description>
         <lastBuildDate>Wed, 01 Sep 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
