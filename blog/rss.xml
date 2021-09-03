@@ -21,19 +21,5 @@
             <pubDate>Fri, 27 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[소개]]></description>
         </item>
-        <item>
-            <title><![CDATA[Docusaurus Install]]></title>
-            <link>https://EleutheriusKim.github.io/blog/2021-08-26-docusaurus</link>
-            <guid>2021-08-26-docusaurus</guid>
-            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[MDX Blog Post]]></title>
-            <link>https://EleutheriusKim.github.io/blog/2021-08-01-mdx-blog-post</link>
-            <guid>2021-08-01-mdx-blog-post</guid>
-            <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></description>
-        </item>
     </channel>
 </rss>

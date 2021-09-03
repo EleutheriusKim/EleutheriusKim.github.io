@@ -29,26 +29,4 @@
             <uri>https://github.com/EleutheriusKim</uri>
         </author>
     </entry>
-    <entry>
-        <title type="html"><![CDATA[Docusaurus Install]]></title>
-        <id>2021-08-26-docusaurus</id>
-        <link href="https://EleutheriusKim.github.io/blog/2021-08-26-docusaurus"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Docusaurus blogging features are powered by the blog plugin.]]></summary>
-        <author>
-            <name>hwayoung kim</name>
-            <uri>https://github.com/EleutheriusKim</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>2021-08-01-mdx-blog-post</id>
-        <link href="https://EleutheriusKim.github.io/blog/2021-08-01-mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
-        <author>
-            <name>hwayoung kim</name>
-            <uri>https://github.com/EleutheriusKim</uri>
-        </author>
-    </entry>
 </feed>
