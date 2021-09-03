@@ -9,8 +9,8 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[docker 컨테이너 내부 timezone]]></title>
-            <link>https://EleutheriusKim.github.io/blog/2021-09-01-docker-localtime</link>
-            <guid>2021-09-01-docker-localtime</guid>
+            <link>https://EleutheriusKim.github.io/blog/2021-09-01-docker-timezone</link>
+            <guid>2021-09-01-docker-timezone</guid>
             <pubDate>Wed, 01 Sep 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[개요]]></description>
         </item>

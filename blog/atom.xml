@@ -9,8 +9,8 @@
     <icon>https://EleutheriusKim.github.io/https://avatars1.githubusercontent.com/u/50225173?s=460&amp;v=4</icon>
     <entry>
         <title type="html"><![CDATA[docker 컨테이너 내부 timezone]]></title>
-        <id>2021-09-01-docker-localtime</id>
-        <link href="https://EleutheriusKim.github.io/blog/2021-09-01-docker-localtime"/>
+        <id>2021-09-01-docker-timezone</id>
+        <link href="https://EleutheriusKim.github.io/blog/2021-09-01-docker-timezone"/>
         <updated>2021-09-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[개요]]></summary>
         <author>
