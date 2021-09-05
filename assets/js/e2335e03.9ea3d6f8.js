@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeleutherius_blog=self.webpackChunkeleutherius_blog||[]).push([[778],{6099:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/semantic","name":"Semantic","count":1,"permalink":"/blog/tags/semantic"}')}}]);
