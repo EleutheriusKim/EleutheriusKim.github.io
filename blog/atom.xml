@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EleutheriusKim.github.io/blog</id>
     <title>Eleutherius dev Blog Blog</title>
-    <updated>2021-09-05T00:00:00.000Z</updated>
+    <updated>2023-03-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EleutheriusKim.github.io/blog"/>
     <subtitle>Eleutherius dev Blog Blog</subtitle>
     <icon>https://EleutheriusKim.github.io/https://avatars1.githubusercontent.com/u/50225173?s=460&amp;v=4</icon>
+    <entry>
+        <title type="html"><![CDATA[타입스크립트 기초]]></title>
+        <id>2023-03-04-typescript-base</id>
+        <link href="https://EleutheriusKim.github.io/blog/2023-03-04-typescript-base"/>
+        <updated>2023-03-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[타입스크립트는 자바스크립트의 상위 집합 언어로, 정적 타입을 지원합니다. 이는 개발자가 코드를 작성할 때 변수의 데이터 타입을 명시해주어 코드의 안정성과 가독성을 높이는 장점이 있습니다.]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유용한 HTML 태그]]></title>
         <id>2021-09-05-useful-HTML-tags</id>
