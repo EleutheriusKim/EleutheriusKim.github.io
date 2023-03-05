@@ -4,9 +4,16 @@
         <title>Eleutherius dev Blog Blog</title>
         <link>https://EleutheriusKim.github.io/blog</link>
         <description>Eleutherius dev Blog Blog</description>
-        <lastBuildDate>Sat, 04 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Mar 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MQTT 프로토콜]]></title>
+            <link>https://EleutheriusKim.github.io/blog/2023-03-05-mqtt-base</link>
+            <guid>2023-03-05-mqtt-base</guid>
+            <pubDate>Sun, 05 Mar 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[MQTT는 Message Queuing Telemetry Transport의 약자로, IoT 기기들 간의 메시지 전송을 위한 프로토콜입니다.]]></description>
+        </item>
         <item>
             <title><![CDATA[타입스크립트 기초]]></title>
             <link>https://EleutheriusKim.github.io/blog/2023-03-04-typescript-base</link>
