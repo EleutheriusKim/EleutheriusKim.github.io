@@ -2,11 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EleutheriusKim.github.io/blog</id>
     <title>Eleutherius dev Blog Blog</title>
-    <updated>2023-03-05T00:00:00.000Z</updated>
+    <updated>2023-07-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EleutheriusKim.github.io/blog"/>
     <subtitle>Eleutherius dev Blog Blog</subtitle>
     <icon>https://EleutheriusKim.github.io/https://avatars1.githubusercontent.com/u/50225173?s=460&amp;v=4</icon>
+    <entry>
+        <title type="html"><![CDATA[Collections in scala (2.x)]]></title>
+        <id>2023-07-22-scala-collections</id>
+        <link href="https://EleutheriusKim.github.io/blog/2023-07-22-scala-collections"/>
+        <updated>2023-07-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[스칼라의 Collections은 Java의 Collections와 유사하지만, 보다 간결하고 표현력이 높은 API를 제공합니다.]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MQTT 프로토콜]]></title>
         <id>2023-03-05-mqtt-base</id>

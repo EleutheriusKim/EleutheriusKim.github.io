@@ -4,9 +4,16 @@
         <title>Eleutherius dev Blog Blog</title>
         <link>https://EleutheriusKim.github.io/blog</link>
         <description>Eleutherius dev Blog Blog</description>
-        <lastBuildDate>Sun, 05 Mar 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Collections in scala (2.x)]]></title>
+            <link>https://EleutheriusKim.github.io/blog/2023-07-22-scala-collections</link>
+            <guid>2023-07-22-scala-collections</guid>
+            <pubDate>Sat, 22 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[스칼라의 Collections은 Java의 Collections와 유사하지만, 보다 간결하고 표현력이 높은 API를 제공합니다.]]></description>
+        </item>
         <item>
             <title><![CDATA[MQTT 프로토콜]]></title>
             <link>https://EleutheriusKim.github.io/blog/2023-03-05-mqtt-base</link>

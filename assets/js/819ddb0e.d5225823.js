@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeleutherius_blog=self.webpackChunkeleutherius_blog||[]).push([[7064],{7219:a=>{a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/scala","name":"scala","count":1,"permalink":"/blog/tags/scala"}')}}]);

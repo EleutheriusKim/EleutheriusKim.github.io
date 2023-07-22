@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeleutherius_blog=self.webpackChunkeleutherius_blog||[]).push([[7217],{4468:e=>{e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/language","name":"language","count":1,"permalink":"/blog/tags/language"}')}}]);
