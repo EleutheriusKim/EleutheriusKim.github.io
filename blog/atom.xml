@@ -19,6 +19,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Spring WebFlux & Reactor 초급 가이드]]></title>
+        <id>2025-05-25-spring-webflux-intro</id>
+        <link href="https://EleutheriusKim.github.io/blog/2025-05-25-spring-webflux-intro"/>
+        <updated>2025-05-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spring WebFlux와 Reactor는 비동기 논블로킹 프로그래밍을 가능하게 해주는 강력한 도구입니다.]]></summary>
+        <author>
+            <name>hwayoung kim</name>
+            <uri>https://github.com/EleutheriusKim</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Collections in scala (2.x)]]></title>
         <id>2023-07-22-scala-collections</id>
         <link href="https://EleutheriusKim.github.io/blog/2023-07-22-scala-collections"/>
