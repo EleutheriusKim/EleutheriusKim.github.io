@@ -4,9 +4,16 @@
         <title>Eleutherius dev Blog Blog</title>
         <link>https://EleutheriusKim.github.io/blog</link>
         <description>Eleutherius dev Blog Blog</description>
-        <lastBuildDate>Sat, 22 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Docker Multi-stage Build 이해와 활용]]></title>
+            <link>https://EleutheriusKim.github.io/blog/2025-05-25-docker-multistage-build</link>
+            <guid>2025-05-25-docker-multistage-build</guid>
+            <pubDate>Sun, 25 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[도커 이미지를 만들다 보면 빌드 환경과 실행 환경을 분리하고 싶어질 때가 있습니다.]]></description>
+        </item>
         <item>
             <title><![CDATA[Collections in scala (2.x)]]></title>
             <link>https://EleutheriusKim.github.io/blog/2023-07-22-scala-collections</link>
