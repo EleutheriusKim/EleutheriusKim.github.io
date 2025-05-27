@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkeleutherius_blog=self.webpackChunkeleutherius_blog||[]).push([[3223],{3712:e=>{e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/devops","name":"devops","count":1,"permalink":"/blog/tags/devops"}')}}]);
